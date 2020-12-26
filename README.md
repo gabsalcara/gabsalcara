@@ -1,16 +1,12 @@
-### Hi there 👋
+[![Header](https://github.com/gabsalcara/gabsalcara/blob/main/header.png "Header")](https://dev.to/gabsalcara/)
 
-<!--
-**gabsalcara/gabsalcara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel Alcara and I'm a Software Developer. I'm from Brazil, living in Sao Paulo and currently working at Telefónica. You can find me on <a href="https://twitter.com/gabsalcara/"><img src="twitter.svg" width="20" height="20" alt=""></a>, or on <a href="https://www.linkedin.com/in/gabrielalcara/"><img src="linkedin.svg" width="20" height="20" alt=""></a> .
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :computer: :wrench: Technologies & Tools 
+<p align="center">
+  <a href="#"><img src="angular.svg" width="40" height="40" alt=""></a>
+  <a href="#"><img src="dot-net.svg" width="40" height="40" alt=""></a>
+  <a href="#"><img src="microsoftsqlserver.svg" width="40" height="40" alt=""></a>
+  <a href="#"><img src="mongodb.svg" width="40" height="40" alt=""></a>
+  <a href="#"><img src="swagger.svg" width="40" height="40" alt=""></a>
+</p>
